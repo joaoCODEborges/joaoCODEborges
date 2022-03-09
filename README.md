@@ -1,9 +1,8 @@
 
 
-- 👋 Hi, I’m @joaoCODEborges
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Joao
+- 👀 I’m interested in software development
+- 🌱 I’m currently improving my skills in Java language with Spring framework and giving my firsts steps with Jenkins and Docker
 - 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/joao-borges87/)
 
 
